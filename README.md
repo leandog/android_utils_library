@@ -1,5 +1,3 @@
-android_utils_library
-=====================
 
 Installing Closed Source dependencies
 --------------------------------------
